@@ -1,4 +1,4 @@
-👋 Hi, I’m Raphael
+##👋 Hi, I’m Raphael
 
 I’m a Fullstack Engineer (Front-end focused) with 8+ years of experience building scalable, performant, and accessible web applications. I’m self-taught and passionate about delivering clean, user-focused design backed by solid engineering principles.
 
