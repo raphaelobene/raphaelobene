@@ -1,12 +1,32 @@
-⚡️ Web Enthusiast ⚡️
+👋 Hi, I’m Raphael
 
-I’m a self-taught Fullstack Engineer with 8+ years of experience, specializing in building high-performance, scalable, and user-friendly web applications. While my core strength lies in front-end development, I also bring solid fullstack expertise that allows me to design, build, and optimize complete solutions from front to back.
+I’m a Fullstack Engineer (Front-end focused) with 8+ years of experience building scalable, performant, and accessible web applications. I’m self-taught and passionate about delivering clean, user-focused design backed by solid engineering principles.
 
-My primary focus is on front-end architecture and user experience, with deep proficiency in React, Next.js, Node.js, and the modern JavaScript/TypeScript ecosystem. I’ve led initiatives around performance optimization, accessibility, and design systems—ensuring applications are not only fast and reliable but also consistent and inclusive for all users.
+⸻
 
-Beyond technical implementation, I contribute to shaping engineering culture: mentoring teammates, conducting technical interviews, and supporting onboarding processes. I’ve also worked on knowledge-sharing initiatives, proof of concepts, and cross-functional collaboration that drive innovation and long-term scalability.
+💻 Tech Stack
+	•	Frontend: React, Next.js, TypeScript, TailwindCSS, Design Systems, Accessibility (a11y)
+	•	Backend: Node.js, Express, REST APIs, GraphQL, MongoDB, Prisma
+	•	DevOps & Tools: Git, CI/CD, Docker, Monitoring & Observability, Performance Optimization
 
-Passionate about both craft and community, I regularly share knowledge through tech talks, meetups, and collaborative workshops. My goal is to continue bridging the gap between technical excellence and user-centric design—delivering applications that balance performance, accessibility, and maintainability.
+⸻
+
+🌟 What I Do
+	•	Architect and build fast, reliable, and inclusive applications
+	•	Drive performance optimization, accessibility, and design system adoption
+	•	Develop frontend-focused solutions that integrate seamlessly with backend services
+	•	Mentor engineers, support onboarding, and lead knowledge-sharing initiatives
+	•	Collaborate on proofs of concept, cross-functional projects, and scalable architectures
+	•	Speak at tech talks and meetups to share insights with the developer community
+
+⸻
+
+🚀 Always Learning
+
+I enjoy staying at the intersection of engineering and design, constantly exploring new technologies and best practices to build better systems and improve user experiences.
+
+📫 Let’s connect: LinkedIn • Twitter • Portfolio
+
 <!---
 raphaelobene/raphaelobene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
