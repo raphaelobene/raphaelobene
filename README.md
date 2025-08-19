@@ -1,10 +1,10 @@
-##👋 Hi, I’m Raphael
+**👋 Hi, I’m Raphael
 
 I’m a Fullstack Engineer (Front-end focused) with 8+ years of experience building scalable, performant, and accessible web applications. I’m self-taught and passionate about delivering clean, user-focused design backed by solid engineering principles.
 
 ⸻
 
-💻 Tech Stack
+*💻 Tech Stack
 	•	Frontend: React, Next.js, TypeScript, TailwindCSS, Design Systems, Accessibility (a11y)
 	•	Backend: Node.js, Express, REST APIs, GraphQL, MongoDB, Prisma
 	•	DevOps & Tools: Git, CI/CD, Docker, Monitoring & Observability, Performance Optimization
